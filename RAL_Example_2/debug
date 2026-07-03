@@ -1,0 +1,3 @@
+Binary file ENV/.ral_adapter.sv.swp matches
+ENV/ral_adapter.sv:20:  virtual function void bus2reg (uvm_sequence_item bus_item, ref uvm_reg_bus_op rw);
+Binary file SIM/work/@_opt/_lib4_0.qpg matches
